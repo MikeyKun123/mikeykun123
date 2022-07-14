@@ -24,7 +24,9 @@ To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to 
 
 ## ➤ Currently Listening To...🎧
 
-<p><a href="https://giphy.com/gifs/haikyuu-1Ev8ZAGWX1Juw">via GIPHY</a></p>
+<p align="center">
+<a href="" target="blank"> <img alt="OwO" src="https://giphy.com/gifs/haikyuu-1Ev8ZAGWX1Juw"> </a>
+</p>
 
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy)
