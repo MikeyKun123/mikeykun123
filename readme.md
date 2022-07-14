@@ -6,7 +6,11 @@
 I'm Some Refer Me By, You Can too...Love Dat  Anyways. Currently I'm a Student, Programming Aspirant & Still New To GitHub Community
 To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to Learn The Cool Stuff Cause Why not? It's Fun
 
-### Meh
+
+<details>
+<summary> <h3> ##✨More On GitHub:  </h3> </summary>
+
+  ### Meh
 • Currently Working On "Bot 🤖" [A Forked Telegram Bot]
 
 • Looking Forward To Meet Cool Dev's ⚡️ Out There & Learn
@@ -14,12 +18,8 @@ To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to 
 • Ahh Well, I Love Watching Anime 💗
 
 (Profile Views)
-
-<details>
-<summary> <h3> ##✨More On GitHub:  </h3> </summary>
-
   • Languages Currently I'm Familiar With:
-
+</details>
 
 ## ➤ Currently Listening To...🎧
 
