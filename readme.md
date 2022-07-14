@@ -4,5 +4,5 @@
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokur3&show_icons=true&theme=radical&layout=compact)](https://github.com/mikeykun123)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokurt&show_icons=true&theme=radical&layout=compact)](https://github.com/mikeykun123)
 
