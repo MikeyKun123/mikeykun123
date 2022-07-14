@@ -7,3 +7,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeykun123&theme=blue-green)
 
 ![Telegram Badge](https://img.shields.io/badge/-OwO-1ca0f1?style=flat-square&logo=telegram&logoColor=Black&link=https://t.me/Anime_wars)
+
+<a href="https://Instagram.com/Anime" class="padded"><img align="left" alt="xditya" width="28px" src="./res/instagram.png" /></a> 
