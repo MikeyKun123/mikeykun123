@@ -22,11 +22,12 @@ To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to 
   • Languages Currently I'm Familiar With:
 </details>
 
-## ➤ Currently Listening To...🎧
-
 <p align="center">
 <a href="" target="blank"> <img alt="OwO" src="/SubsPlease_Shiroi_Suna_no_Aquatope_18_1080p_AE2424AD_00.gif"> </a>
 </p>
+
+## ➤ Currently Listening To...🎧
+
 
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy)
