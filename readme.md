@@ -3,7 +3,7 @@
 ## Well Well Now...Look At You, How's It Going?
 
 <b> Btw Here's a Little Intro About Me: </b>
-I'm Vedant, Some Refer Me By VN, You Can too...Love Dat  Anyways. Currently I'm a Student, Programming Aspirant & Still New To GitHub Community
+I'm Some Refer Me By, You Can too...Love Dat  Anyways. Currently I'm a Student, Programming Aspirant & Still New To GitHub Community
 To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to Learn The Cool Stuff Cause Why not? It's Fun
 
 ## ➤ Currently Listening To...🎧
