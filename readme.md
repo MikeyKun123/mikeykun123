@@ -22,6 +22,7 @@ To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to 
   • Languages Currently I'm Familiar With:
 </details>
 
+<h4 align="center"> Fuckkk </h4>
 <p align="center">
 <a href="" target="blank"> <img alt="OwO" src="/SubsPlease_Shiroi_Suna_no_Aquatope_18_1080p_AE2424AD_00.gif"> </a>
 </p>
