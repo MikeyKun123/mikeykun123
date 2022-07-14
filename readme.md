@@ -15,6 +15,12 @@ To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to 
 
 (Profile Views)
 
+<details>
+<summary> <h3> ##✨More On GitHub:  </h3> </summary>
+
+  • Languages Currently I'm Familiar With:
+
+
 ## ➤ Currently Listening To...🎧
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy)
