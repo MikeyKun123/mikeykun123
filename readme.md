@@ -6,6 +6,15 @@
 I'm Some Refer Me By, You Can too...Love Dat  Anyways. Currently I'm a Student, Programming Aspirant & Still New To GitHub Community
 To Put It Honestly I'm Just Another Guy Interested In Tech Things and Trying to Learn The Cool Stuff Cause Why not? It's Fun
 
+### Meh
+• Currently Working On "Bot 🤖" [A Forked Telegram Bot]
+
+• Looking Forward To Meet Cool Dev's ⚡️ Out There & Learn
+
+• Ahh Well, I Love Watching Anime 💗
+
+(Profile Views)
+
 ## ➤ Currently Listening To...🎧
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy)
